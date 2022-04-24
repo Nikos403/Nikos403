@@ -45,8 +45,8 @@ I am a Data Scientist and Machine Learning Engineer from Greece.
 ### :hammer_and_wrench: Languages and Tools :
 
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
-![TensorFlow](https://img.shields.io/badge/-Tensorflow-black?style=plastic&logo=Tensorflow)
-![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=plastic&logo=Pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=plastic&logo=Tensorflow)
+![Pytorch](https://img.shields.io/badge/-PyTorch-black?style=plastic&logo=Pytorch)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![Windows](https://img.shields.io/badge/Windows-black?style=plastic&logo=windows)
 ![Linux](https://img.shields.io/badge/Linux-black?style=plastic&logo=linux)
