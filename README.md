@@ -37,8 +37,11 @@ me.print_greeting()
 I am a Data Scientist and Machine Learning Engineer from Greece.
 - ✨ I’m working as a Data Scientist and primarily focus on NLP and NLU tasks.
 
-- ✨ Interested and fascinated by developments in Artificial Intelligence, Machine Learning, Deep Learning.
+- ✨ Interested and fascinated by developments in Artificial Intelligence, Machine Learning and Deep Learning.
 
+- ✨ Huggingface Transformers.
+
+- ✨ (Deep) Reinforcement Learning.
 
 ---
 
