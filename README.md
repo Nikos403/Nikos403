@@ -50,12 +50,13 @@ I am a Data Scientist and Machine Learning Engineer from Greece.
 ![Pytorch](https://img.shields.io/badge/-PyTorch-black?style=plastic&logo=Pytorch)
 - IDE : 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-181717?style=plastic&logo=Jupyter)
 - OS : 
 ![Windows](https://img.shields.io/badge/Windows-black?style=plastic&logo=windows)
-![Linux](https://img.shields.io/badge/Linux-black?style=plastic&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-181717?style=plastic&logo=linux)
 - Cloud : 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=plastic&logo=microsoft-azure)
-![IBM Watson](https://img.shields.io/badge/IBM%20Watson-blue?style=plastic&logo=ibm-watson)
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-181717?style=plastic&logo=ibm-watson)
 - Version Control :
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
